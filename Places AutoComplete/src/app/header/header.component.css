@@ -1,0 +1,17 @@
+header {
+  padding: 0%;
+}
+mat-toolbar {
+  height: 5%;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+.example-full-width {
+  width: 100%;
+}
+mat-icon {
+  padding-right: 1%;
+}
